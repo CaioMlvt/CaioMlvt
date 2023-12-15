@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello 👋
+- No momento estou estudando na ALURA
+- Terminei minha faculdade em Analise e Desenvolvimento de Sistemas
+- Estou trabalhando atualmente na empresa ORSEGUPS
+
 
 <!--
 **CaioMlvt/CaioMlvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
