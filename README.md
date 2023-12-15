@@ -1,4 +1,17 @@
-## Hello 👋
+<div dsplay="inline-block">
+<h1 align="left">Caio Malavota</h1>
+<a href="https://www.instagram.com/jeniblo_dev/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/jeniblo_dev">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+## Welcome 
 - No momento estou estudando na ALURA 📖
 - Terminei minha faculdade em Analise e Desenvolvimento de Sistemas ✔️
 - Estou trabalhando atualmente na empresa ORSEGUPS 👷
@@ -13,8 +26,8 @@
 
 <div>
 <a href="https://github.com/CaioMlvt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMlvt&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioMlvt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaioMlvt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioMlvt&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 
