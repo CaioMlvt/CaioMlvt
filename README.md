@@ -1,11 +1,11 @@
 <div dsplay="inline-block">
 <h1 align="left">Caio Malavota</h1>
-<a href="https://www.instagram.com/caio_malavota/" >
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;"  target="_blank">
+<a href="https://www.instagram.com/caio_malavota/" target="_blank">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
 
-  <a href="https://www.linkedin.com/in/caio-augusto-malavota-38baa6317/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;"  target="_blank">
+  <a href="https://www.linkedin.com/in/caio-augusto-malavota-38baa6317/" target="_blank">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
